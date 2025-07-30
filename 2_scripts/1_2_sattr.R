@@ -4,6 +4,7 @@
 # saTTR is defined as TTR / (1 + SD[INR]), where SD[INR] is the standard deviation of INR values.
 
 # Load necessary libraries
+library(janitor)
 library(dplyr)    # For data manipulation
 library(tidyr)    # For reshaping data
 library(lubridate)# For date manipulation

@@ -9,6 +9,7 @@ library(lubridate)# For date manipulation
 library(here)     # For file path management
 library(haven)    # For importing .sav files
 library(labelled)
+library(janitor)
 
 # Step 1: Import the dataset
 # Load the Warfarin dataset from the specified path

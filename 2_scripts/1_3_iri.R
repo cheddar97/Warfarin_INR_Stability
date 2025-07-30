@@ -4,6 +4,7 @@
 # Patients with fewer than 3 measurements are excluded to avoid errors.
 # Load necessary libraries
 library(dplyr)
+library(labelled)
 library(tidyr)
 library(lubridate)
 library(here)
